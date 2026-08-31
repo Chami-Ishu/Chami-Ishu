@@ -53,9 +53,9 @@
 
 ## 📌 Featured Project
 
-### 🏫 [NSBM Student Hub](https://github.com/Chami-Ishu/NSBM-Student-Hub)
+### 🌸 TinyBlooms – Online Flower Bouquet Website
 
-> A student-focused web platform developed to provide useful resources and services for NSBM Green University students.
+> A responsive web application developed using React, JavaScript, HTML, and CSS.
 
 ---
 
