@@ -84,7 +84,6 @@ A salon management web application developed as a university group project using
 
 * JavaScript
 * React.js
-* Git & GitHub
 * Web Development
 * Software Development Practices
 
