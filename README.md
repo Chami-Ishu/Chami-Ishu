@@ -99,6 +99,13 @@ A salon management web application developed as a university group project using
 
 ---
 
+## 🎯 Goals
+* Gain practical industry experience through an internship
+* Improve my full-stack development skills
+* Build real-world software projects
+* Continuously learn and grow as a software developer
+  
+
 ## 🌟 Fun Facts
 
 * 🎨 I enjoy designing clean and colorful user interfaces
