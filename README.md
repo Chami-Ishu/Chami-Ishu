@@ -51,11 +51,32 @@
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Projects
 
-### 🌸 TinyBlooms – Online Flower Bouquet Website
+### 🌸 TinyBlooms — Individual Project
 
-> A responsive web application developed using React, JavaScript, HTML, and CSS.
+A full-stack e-commerce web application for a handmade flower bouquet business, independently developed using React, JavaScript, Spring Boot, and MySQL.
+
+🔗 [View Project](https://github.com/Chami-Ishu/TinyBlooms)
+
+### 💼 TalentFlow — Group Project
+
+A web-based talent and recruitment management system developed as a university group project, designed to connect job seekers and employers through an organized recruitment platform.
+
+🔗 [View Project](https://github.com/Chamindu18/TalentFlowOS.git)
+
+### 📝 Task Management System — Group Project
+
+A task management system developed as a university group project to help users organize, manage, and track their tasks efficiently.
+
+🔗 [View Project](https://github.com/Chamindu18/task-management-system.git)
+
+### 💇‍♀️ Salon Nilu — Group Project
+
+A salon management web application developed as a university group project using PHP.
+
+🔗 [View Project](https://github.com/SanukaWaravita/SalonNilu.git)
+
 
 ---
 
