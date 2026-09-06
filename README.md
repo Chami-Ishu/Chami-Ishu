@@ -106,7 +106,7 @@ A salon management web application developed as a university group project using
 * Continuously learn and grow as a software developer
   
 
-📫 Connect With Me
+## 📫 Connect With Me
 
 💼 LinkedIn: https://www.linkedin.com/in/chamishka-ishani-8003603a5
 📧 Email: ishiishi0307@gmail.com
