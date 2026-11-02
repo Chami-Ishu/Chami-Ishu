@@ -100,6 +100,7 @@ A salon management web application developed as a university group project using
 
 
 </div>
+
 ---
 
 ## 🎯 Goals
