@@ -95,7 +95,15 @@ A salon management web application developed as a university group project using
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Chami-Ishu\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Chami-Ishu\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=Chami-Ishu\&theme=tokyonight\&hide_border=true)
+
+</div>
 
 </div>
 
