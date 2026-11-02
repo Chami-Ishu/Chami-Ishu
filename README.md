@@ -96,7 +96,8 @@ A salon management web application developed as a university group project using
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Chami-Ishu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Chami-Ishu&theme=tokyonight)
+
 
 </div>
 ---
