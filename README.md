@@ -88,23 +88,17 @@ A salon management web application developed as a university group project using
 * Software Development Practices
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Chami-Ishu\&show_icons=true\&theme=tokyonight\&hide_border=true)
+<img src="https://github-stats-extended.vercel.app/api?username=Chami-Ishu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-## 📊 GitHub Stats
+<br/>
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Chami-Ishu\&theme=tokyonight\&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=Chami-Ishu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
-
-</div>
-
 
 ---
 
