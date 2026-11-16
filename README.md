@@ -113,7 +113,7 @@ A salon management web application developed as a university group project using
 ## 📫 Connect With Me
 
 💼 LinkedIn: https://www.linkedin.com/in/chamishka-ishani-8003603a5
-📧 Email: ishiishi0307@gmail.com
+📧 Email: chamishka.ishanii@gmail.com
 
 ---
 
