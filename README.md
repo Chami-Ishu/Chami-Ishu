@@ -4,9 +4,11 @@
 
 ### 💻 Computer Science Undergraduate | Aspiring Software Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/chamishka-ishani-8003603a5/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Chami-Ishu)
-[![Profile Views](https://komarev.com/ghpvc/?username=Chami-Ishu\&style=for-the-badge)](https://github.com/Chami-Ishu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamishka-ishani-8003603a5/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chami-Ishu)
+[![Profile Views](https://komarev.com/ghpvc/?username=Chami-Ishu&style=for-the-badge)](https://github.com/Chami-Ishu)
+
+### 🌐 [🚀 View My Live Portfolio](https://chami-ishu.github.io/my-portfolio/)
 
 </div>
 
@@ -27,56 +29,93 @@
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools & IDEs
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge\&logo=intellij-idea\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
-### 🌸 TinyBlooms — Individual Project
+### 🌸 TinyBlooms — Full-Stack E-Commerce Website | Individual Project
 
-A full-stack e-commerce web application for a handmade flower bouquet business, independently developed using React, JavaScript, Spring Boot, and MySQL.
+A full-stack e-commerce web application for a handmade flower bouquet business, featuring product browsing, shopping cart, checkout, order tracking, and an admin dashboard for order management.
 
-🔗 [View Project](https://github.com/Chami-Ishu/TinyBlooms)
+**Technologies:** React, JavaScript, Spring Boot, MySQL
 
-### 💼 TalentFlow — Group Project
+🔗 [GitHub Repository](https://github.com/Chami-Ishu/TinyBlooms) | 🌐 [Live Demo](https://tiny-blooms.vercel.app)
 
-A web-based talent and recruitment management system developed as a university group project, designed to connect job seekers and employers through an organized recruitment platform.
+### 📚 StudyMate — Student Study Planner | Individual Project
 
-🔗 [View Project](https://github.com/Chamindu18/TalentFlowOS.git)
+A student study planner that helps manage subjects, track tasks, monitor study progress, and organize weekly study schedules.
 
-### 📝 Task Management System — Group Project
+**Technologies:** React, JavaScript, CSS, Local Storage
 
-A task management system developed as a university group project to help users organize, manage, and track their tasks efficiently.
+🔗 [GitHub Repository](https://github.com/Chami-Ishu/Student-Study-Planner) | 🌐 [Live Demo](https://student-study-planner-lovat-six.vercel.app)
 
-🔗 [View Project](https://github.com/Chamindu18/task-management-system.git)
+### 🔍 FindIt — Lost and Found Web Application | Individual Project
 
-### 💇‍♀️ Salon Nilu — Group Project
+A web application designed to help users report, search for, and reconnect with lost and found items.
 
-A salon management web application developed as a university group project using PHP.
+**Status:** In Progress
 
-🔗 [View Project](https://github.com/SanukaWaravita/SalonNilu.git)
+### 🐾 PetCare+ — Mobile Application | Group Project
 
+A pet care mobile application developed as a university group project.
+
+**Technologies:** Flutter, Dart, Firebase
+
+**My Contributions:** Adoption Management, Notifications, Provider Management, Profile & Settings.
+
+🔗 [GitHub Repository](https://github.com/Chamindu18/petcare)
+
+### 💼 TalentFlow OS — Recruitment Management System | Group Project
+
+A recruitment management system developed as a university group project.
+
+**My Contribution:** Developed the Recruiter Management module.
+
+🔗 [GitHub Repository](https://github.com/Chamindu18/TalentFlowOS)
+
+### 💇‍♀️ Salon Nilu — Web Application | Group Project
+
+A salon web application developed as a university group project.
+
+**My Contribution:** Designed and developed the Photo Gallery feature.
+
+🔗 [GitHub Repository](https://github.com/SanukaWaravita/SalonNilu)
+
+### ❤️ LifeLink — Mobile App UI/UX Design | Group Project
+
+A mobile application UI/UX design project focused on hospital-related services and emergency assistance.
+
+**Tool:** Figma
+
+**My Contributions:**
+- Developed the Design System, including colour palette, typography, icons, and reusable UI components.
+- Designed Hospital Login, Hospital Dashboard, Emergency Requests, and FAQs & Myths screens.
+- Contributed to accessibility considerations and usability evaluation.
+- Assisted with project documentation and report writing.
+
+🔗 [View Figma Design](https://www.figma.com/design/qqQo5vEfmywMQ67sk2mgjX/LifeLink---Mobile-AppDesign?node-id=600-1160&t=1o3K8gCNQRPRzdGL-1)
 
 ---
 
@@ -98,21 +137,21 @@ A salon management web application developed as a university group project using
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Chami-Ishu&theme=tokyonight)
 
-
 </div>
 
 ---
 
 ## 🎯 Goals
+
 * Gain practical industry experience through an internship
 * Improve my full-stack development skills
 * Build real-world software projects
 * Continuously learn and grow as a software developer
-  
 
 ## 📫 Connect With Me
 
 💼 LinkedIn: https://www.linkedin.com/in/chamishka-ishani-8003603a5
+
 📧 Email: chamishka.ishanii@gmail.com
 
 ---
